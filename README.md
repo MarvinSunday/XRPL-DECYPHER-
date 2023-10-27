@@ -17,6 +17,15 @@ A Project Inspired by the XRP Ledger Campus Ambassadorship program.
 XRPL DECYPHER is an information and education platform tailored towards exploring the use cases and utilities that projects and companies building in the XRP Ledger have to offer. The XRPL DECYPHER platform seeks to educate and inform new and existing XRPL Users about the XRPL Community and technologies. Bloggers and Vloggers also have a role in educating and informing people on the platform. XRPL integrations like payment request, wallet sign-in, and NFT minting make this platform blockchain-based. It is a not-for-profit venture to educate the Next 1 Billion XRPL Users.
 <a name="xrpl-decypher"></a>
 ## XRPL DECYPHER
+The XRPL DECYPHER Platform consists of Four Arms. These arms allow the platform to achieve its goals of education and information on the XRP Ledger. 
+### DECYPHER Education
+This Arm is an article series dedicated to educating XRPL users on credible projects building on the Blockchain.
+### DECYPHER Blog
+This Arm is a platform where content creators (bloggers and Vloggers) educate and inform users about certain things on the XRPL.
+### DECYPHER News
+This is a news broadcast Channel that drops daily news of projects and things building on the XRPL.
+### The XRPL DECYPHER Newsletter
+This email newsletter educates XRPL users about important information and news with the ecosystem daily and weekly.
 <a name="our-codes/libraries"></a>
 ## OUR Codes/Libraries
 <a name="coc-nfts"></a>
