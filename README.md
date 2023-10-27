@@ -28,6 +28,7 @@ This is a news broadcast Channel that drops daily news of projects and things bu
 This email newsletter educates XRPL users about important information and news with the ecosystem daily and weekly.
 <a name="our-codes/libraries"></a>
 ## OUR Codes/Libraries
+Our Codes are in Python and JavaScript programming languages. We used existing XRPL libraries like xumm js SDK and xrpl-py SDK. Our platform allows XUMM and Crossmark Plugin. Our scripts create XRP and XRPL Token payment requests and tracking, NFT minting and tracking, and Wallet login.
 <a name="coc-nfts"></a>
 ## COC NFTs
 <a name="conclusion"></a>
