@@ -1,4 +1,4 @@
-# XRPL DECYPHER 📜📖🎞️✍️
+# XRPL DECYPHER 📜
 An XRPL platform Built to educate and inform XRPL users on the utilities being built on the XRP Ledger.
 A Project Inspired by the XRP Ledger Campus Ambassadorship program.
 
@@ -37,5 +37,7 @@ Certificate of Completion NFTs is a Decentralized proof of participation for use
 For the platform to run, we need host services for the website and our XRPL codes, a Database for storing information (NFT Data, emails, articles, videos, and XRPL transactions), UI/UX design, and Web development services. 
 The XRPL DECYPHER platform provides quality and comprehensive knowledge to users about the utilities and use cases on the XRP Ledger. 
 We have a few sample articles in our medium page. https://linktr.ee/xrpl_decypher/
+
 The XRPL DECYPHER platform is an XRPL Believers and Enthusiasts venture. Above the code and the education, we seek to make other XRPL Users 589 steps ahead of the Crypto space. 
+
 ~Marvin & Obiajulu 
