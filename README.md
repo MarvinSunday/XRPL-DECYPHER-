@@ -31,5 +31,6 @@ This email newsletter educates XRPL users about important information and news w
 Our Codes are in Python and JavaScript programming languages. We used existing XRPL libraries like xumm js SDK and xrpl-py SDK. Our platform allows XUMM and Crossmark Plugin. Our scripts create XRP and XRPL Token payment requests and tracking, NFT minting and tracking, and Wallet login.
 <a name="coc-nfts"></a>
 ## COC NFTs
+Certificate of Completion NFTs is a Decentralized proof of participation for users who read the articles on the DECYPHER Education. They are non-transferable XLS-20 NFTs attached to each Article on the Educational sector. Users are white-listed to mint these NFTs after answering questions related to the topic discussed. Projects and companies can use these NFTs to track users who know about their enterprises, allowing them to make the necessary provisions, rewards, and recognitions.
 <a name="conclusion"></a>
 ## Conclusion 
